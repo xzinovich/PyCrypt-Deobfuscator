@@ -1,4 +1,4 @@
-// This code was written by xZin0vich I take all credits.
+# This code was written by xZin0vich I take all credits.
 
 import sys
 
